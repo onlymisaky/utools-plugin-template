@@ -1,0 +1,16 @@
+{
+  "pluginName": "表情包",
+  "description": "斗图，我是认真的",
+  "version": "0.0.1",
+  "main": "index.html",
+  "preload": "preload.js",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "bqb",
+      "cmds": [
+        "表情包"
+      ]
+    }
+  ]
+}
