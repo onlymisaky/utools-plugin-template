@@ -1,15 +1,15 @@
 {
-  "pluginName": "表情包",
-  "description": "斗图，我是认真的",
+  "pluginName": "pluginName",
+  "description": "description",
   "version": "0.0.1",
   "main": "index.html",
   "preload": "preload.js",
   "logo": "logo.png",
   "features": [
     {
-      "code": "bqb",
+      "code": "code",
       "cmds": [
-        "表情包"
+        "cmds"
       ]
     }
   ]
